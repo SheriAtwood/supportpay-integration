@@ -1,3 +1,6 @@
+
+# SupporPay Recurly Integration [Build Status](https://secure.travis-ci.org/recurly/recurly-client-ruby.png)](http://travis-ci.org/recurly/recurly-client-ruby)
+
 # Recurly [![Build Status](https://secure.travis-ci.org/recurly/recurly-client-ruby.png)](http://travis-ci.org/recurly/recurly-client-ruby)
 
 <https://github.com/recurly/recurly-client-ruby>
@@ -7,7 +10,7 @@
 
 
 ## Installation
-
+The integration of Recurly with SupportPay via a Rails App on Force.com 
 Recurly is packaged as a Ruby gem. We recommend you install it with
 [Bundler](http://gembundler.com/) by adding the following line to your Gemfile:
 
